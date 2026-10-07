@@ -1,0 +1,7 @@
+*.csv
+*/*.csv
+_*.csv
+"__pycache__/" 
+".ipynb_checkpoints/"
+"python/ipynb_checkpoints/"
+"python/__pycache__/" 
